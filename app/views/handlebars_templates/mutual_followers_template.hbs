@@ -1,9 +1,9 @@
 <h1>Mutual Followers</h1>
 
 {{#each mutual_followers}}
-  <div>
+  <div class="user_square">
     <img src="{{profile_image_url}}">
-    <p>{{name}}</p>
-    <p>{{screen_name}}</p>
+    <div class="user-data-shell"></div>
+    <p class="handle">@{{screen_name}}</p>
   </div>
 {{/each}}
