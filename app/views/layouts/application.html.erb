@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TwitterChallenge</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <%= render :partial => "layouts/header" %>
+  <%= yield %>
+
+  <% Dir.glob("#{Rails.root}/app/views/handlebars_templates/*.hbs") do |file| %>
+    <script type="text/x-handlebars-template" id="<%= File.basename(file,".hbs") %>">
+      <%= File.open(file).read.html_safe %>
+    </script>
+  <% end %>
+
+  <%= javascript_include_tag "application" %>
+
+  <script type="text/javascript">
+    TwitterChallenge.init();
+  </script>
+
+</body>
+</html>
