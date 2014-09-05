@@ -36,3 +36,12 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = "random"
 end
+
+def fixture_path
+  File.expand_path('../fixtures', __FILE__)
+end
+
+def json_fixture(file)
+  string = File.new(fixture_path + '/' + file).read
+  JSON.parse(string)
+end
