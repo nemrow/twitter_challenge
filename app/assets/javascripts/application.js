@@ -13,10 +13,10 @@
 //= require jquery
 //= require jquery_ujs
 
-//= require model.js
 //= require view.js
 //= require controller.js
 //= require twitter_challenge.js
 
 //= require handlebars-v1.3.0.js
 //= require handlebars_templates_loader.js
+//= require handlebars_helpers.js

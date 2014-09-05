@@ -1,5 +1,9 @@
 <h1>Mutual Followers</h1>
 
+{{#any mutual_followers}}
+  <h3>No Matches</h3>
+{{/any}}
+
 {{#each mutual_followers}}
   <div class="user_square">
     <img src="{{profile_image_url}}">
