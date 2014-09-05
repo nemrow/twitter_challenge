@@ -29,7 +29,8 @@ class TwitterUser
     end
 
     def get_users_by_twitter_ids(twitter_ids_array)
-      client.users(twitter_ids_array).map do |current_follower|
+      followers_objects = client.users(twitter_ids_array) || []
+      followers_objects.map do |current_follower|
         current_follower.attrs.merge(:profile_image_url => edit_image_url(current_follower.profile_image_url))
       end
     end
