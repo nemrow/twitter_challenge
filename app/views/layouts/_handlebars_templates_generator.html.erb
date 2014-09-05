@@ -1,0 +1,5 @@
+<% Dir.glob("#{Rails.root}/app/views/handlebars_templates/*.hbs") do |file| %>
+  <script type="text/x-handlebars-template" id="<%= File.basename(file,".hbs") %>">
+    <%= File.open(file).read.html_safe %>
+  </script>
+<% end %>
