@@ -1,2 +1,0 @@
-ENV["TWITTER_KEY"] = "ak7s0KS6AocuwYhOUe3jw"
-ENV["TWITTER_SECRET"] = "2ocFsjAu9gXYr6iw01fuKfV6cwAFuGkuMZ6PPiBk"
