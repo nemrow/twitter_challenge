@@ -10,9 +10,9 @@ class TwitterUser
   end
 
   def mutual_followers(twitter_handle_for_intersection)
-    users_follower_ids = get_follower_ids(@twitter_handle)
-    follower_ids_to_intersect = get_follower_ids(twitter_handle_for_intersection)
-    get_mutual_followers_data(users_follower_ids, follower_ids_to_intersect)
+    users_following_ids = get_following_ids(@twitter_handle)
+    following_ids_to_intersect = get_following_ids(twitter_handle_for_intersection)
+    get_mutual_followings_data(users_following_ids, following_ids_to_intersect)
   end
 
   private
@@ -23,15 +23,15 @@ class TwitterUser
       end
     end
 
-    def get_mutual_followers_data(users_follower_ids, follower_ids_to_intersect)
-      mutual_followers_ids = users_follower_ids.to_a & follower_ids_to_intersect.to_a
+    def get_mutual_followings_data(users_following_ids, following_ids_to_intersect)
+      mutual_followers_ids = users_following_ids.to_a & following_ids_to_intersect.to_a
       get_users_by_twitter_ids(mutual_followers_ids)
     end
 
     def get_users_by_twitter_ids(twitter_ids_array)
-      followers_objects = client.users(twitter_ids_array) || []
-      followers_objects.map do |current_follower|
-        current_follower.attrs.merge(:profile_image_url => edit_image_url(current_follower.profile_image_url))
+      twitter_users = client.users(twitter_ids_array) || []
+      twitter_users.map do |twitter_user|
+        twitter_user.attrs.merge(:profile_image_url => edit_image_url(twitter_user.profile_image_url))
       end
     end
 
