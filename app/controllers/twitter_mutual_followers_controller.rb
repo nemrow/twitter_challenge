@@ -1,6 +1,6 @@
 class TwitterMutualFollowersController < ApplicationController
   def show
-    presenter = TwitterDataPresenter.new(params[:twitter_handle_main])
-    render :json => presenter.mutual_followers_as_json(params[:twitter_handle_for_intersection])
+    mutual_followers = TwitterUser.new(params[:twitter_handle_main]).mutual_followers(params[:twitter_handle_for_intersection])
+    render :json => mutual_followers
   end
 end
