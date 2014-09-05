@@ -8,11 +8,11 @@
   </div>
 
   <div class="header_search_twitter_user right">
-    <p>Find Mutual Followers</p>
+    <p>Find Mutual Followings</p>
     <%= form_tag("/twitter_user", :method => "get", :class => 'twitter-mutual-followers-form') do %>
       <%= text_field_tag "twitter_handle_main", nil, {:placeholder => "First Twitter Handle"} %>
       <%= text_field_tag "twitter_handle_for_intersection", nil, {:placeholder => "Second Twitter Handle"} %><br>
-      <%= submit_tag "Get Mutual Followers" %>
+      <%= submit_tag "Get Mutual Followings" %>
     <% end %>
   </div>
 </header>
