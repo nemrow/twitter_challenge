@@ -43,7 +43,7 @@ class TwitterUser
       client.user_timeline(twitter_handle, {:count => quantity})
     end
 
-    def get_follower_ids(twitter_handle)
-      client.follower_ids(twitter_handle)
+    def get_following_ids(twitter_handle)
+      client.friend_ids(twitter_handle)
     end
 end
