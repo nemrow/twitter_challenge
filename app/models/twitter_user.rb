@@ -24,9 +24,6 @@ class TwitterUser
     end
 
     def get_mutual_followers_data(users_follower_ids, follower_ids_to_intersect)
-      if Rails.env == "development"
-        return JSON.parse(File.read('spec/fixtures/mutual_followers.json'))["mutual_followers"]
-      end
       mutual_followers_ids = users_follower_ids.to_a & follower_ids_to_intersect.to_a
       mutual_follower_objects = client.users(mutual_followers_ids)
       edit_twitter_users_data(mutual_follower_objects)
@@ -47,10 +44,6 @@ class TwitterUser
     end
 
     def get_follower_ids(twitter_handle)
-      if Rails.env == "development"
-        return JSON.parse(File.read('spec/fixtures/follower_ids_1.json'))["follower_ids"] if (twitter_handle == "nemrow")
-        return JSON.parse(File.read('spec/fixtures/follower_ids_2.json'))["follower_ids"] if (twitter_handle == "dpolaske")
-      end
       client.follower_ids(twitter_handle)
     end
 end
