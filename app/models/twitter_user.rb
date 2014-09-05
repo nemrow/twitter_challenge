@@ -25,12 +25,11 @@ class TwitterUser
 
     def get_mutual_followers_data(users_follower_ids, follower_ids_to_intersect)
       mutual_followers_ids = users_follower_ids.to_a & follower_ids_to_intersect.to_a
-      mutual_follower_objects = client.users(mutual_followers_ids)
-      edit_twitter_users_data(mutual_follower_objects)
+      get_users_by_twitter_ids(mutual_followers_ids)
     end
 
-    def edit_twitter_users_data(mutual_follower_objects)
-      mutual_follower_objects.map do |current_follower|
+    def get_users_by_twitter_ids(twitter_ids_array)
+      client.users(twitter_ids_array).map do |current_follower|
         current_follower.attrs.merge(:profile_image_url => edit_image_url(current_follower.profile_image_url))
       end
     end
