@@ -1,0 +1,1968 @@
+[
+  {
+    "created_at": "Wed Aug 06 22:59:02 +0000 2014",
+    "id": 4.971549146035e+17,
+    "id_str": "497154914603499520",
+    "text": "@sprockett fun little hack http:\/\/t.co\/N2FhXiZf5C. Is this playing from youtube and just hiding the video?",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 4310821,
+    "in_reply_to_user_id_str": "4310821",
+    "in_reply_to_screen_name": "sprockett",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/N2FhXiZf5C",
+          "expanded_url": "http:\/\/thepara.de",
+          "display_url": "thepara.de",
+          "indices": [
+            27,
+            49
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sprockett",
+          "name": "sprockett",
+          "id": 4310821,
+          "id_str": "4310821",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 18 20:29:05 +0000 2014",
+    "id": 4.9023180803933e+17,
+    "id_str": "490231808039325696",
+    "text": "It blows my mind how hard it is for me sign and fax documents. WHAT THE HELL IS A FAX? I can't believe people still rely on this technology",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 18 04:52:29 +0000 2014",
+    "id": 4.8999610505301e+17,
+    "id_str": "489996105053007872",
+    "text": "@lob your OG customers weren't invited? :)",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.8996158710127e+17,
+    "in_reply_to_status_id_str": "489961587101274112",
+    "in_reply_to_user_id": 508557097,
+    "in_reply_to_user_id_str": "508557097",
+    "in_reply_to_screen_name": "lob",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lob",
+          "name": "Lob",
+          "id": 508557097,
+          "id_str": "508557097",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 15 19:06:15 +0000 2014",
+    "id": 4.8912379751394e+17,
+    "id_str": "489123797513940992",
+    "text": "Ever wonder what your website looks like to someone wasted? http:\/\/t.co\/p8LzhE7gFJ. Nice work @rynclsnr.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/p8LzhE7gFJ",
+          "expanded_url": "http:\/\/drunkusertesting.com",
+          "display_url": "drunkusertesting.com",
+          "indices": [
+            60,
+            82
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rynclsnr",
+          "name": "ron crosler",
+          "id": 2589757567,
+          "id_str": "2589757567",
+          "indices": [
+            94,
+            103
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 15 19:04:51 +0000 2014",
+    "id": 4.891234439509e+17,
+    "id_str": "489123443950899201",
+    "text": "@rynclsnr haha. That drunk testing bookmarklet is NEXT LEVEL! I like your style.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2589757567,
+    "in_reply_to_user_id_str": "2589757567",
+    "in_reply_to_screen_name": "rynclsnr",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rynclsnr",
+          "name": "ron crosler",
+          "id": 2589757567,
+          "id_str": "2589757567",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 14 20:00:01 +0000 2014",
+    "id": 4.8877493942446e+17,
+    "id_str": "488774939424456704",
+    "text": "@ebloch Right on! I shot you an email.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.8744580475219e+17,
+    "in_reply_to_status_id_str": "487445804752191488",
+    "in_reply_to_user_id": 10239172,
+    "in_reply_to_user_id_str": "10239172",
+    "in_reply_to_screen_name": "ebloch",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ebloch",
+          "name": "Ethan Bloch",
+          "id": 10239172,
+          "id_str": "10239172",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 10 22:39:41 +0000 2014",
+    "id": 4.8736557214584e+17,
+    "id_str": "487365572145840130",
+    "text": "@ebloch I want to hear about Flowtowns challenges! Got time for a beer in sf? I'll buy you any beer that rhymes with Chores Kite.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10239172,
+    "in_reply_to_user_id_str": "10239172",
+    "in_reply_to_screen_name": "ebloch",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ebloch",
+          "name": "Ethan Bloch",
+          "id": 10239172,
+          "id_str": "10239172",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 08 19:53:45 +0000 2014",
+    "id": 4.8659903664478e+17,
+    "id_str": "486599036644782080",
+    "text": "@NatGeoChannel @SPDelvecchio Whatttttttttt? Is it airing soon?",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.8656559822762e+17,
+    "in_reply_to_status_id_str": "486565598227615745",
+    "in_reply_to_user_id": 18244358,
+    "in_reply_to_user_id_str": "18244358",
+    "in_reply_to_screen_name": "NatGeoChannel",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NatGeoChannel",
+          "name": "Nat Geo Channel",
+          "id": 18244358,
+          "id_str": "18244358",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "SPDelvecchio",
+          "name": "Julien Delvecchio",
+          "id": 74494005,
+          "id_str": "74494005",
+          "indices": [
+            15,
+            28
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 07 16:34:54 +0000 2014",
+    "id": 4.8618660447875e+17,
+    "id_str": "486186604478754818",
+    "text": "Great article on why many wanna-be coders fail. http:\/\/t.co\/dmKo2IKA2A. \"Go and make something!\"",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/dmKo2IKA2A",
+          "expanded_url": "http:\/\/tinyurl.com\/nnv3hgy",
+          "display_url": "tinyurl.com\/nnv3hgy",
+          "indices": [
+            48,
+            70
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 25 16:25:53 +0000 2014",
+    "id": 4.7060165868299e+17,
+    "id_str": "470601658682990592",
+    "text": "The truth about learning to program! Amazing post by @kraykray. http:\/\/t.co\/B96EndA7Yy. I couldn't have said it any better.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/B96EndA7Yy",
+          "expanded_url": "http:\/\/goo.gl\/voVpLl",
+          "display_url": "goo.gl\/voVpLl",
+          "indices": [
+            64,
+            86
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kraykray",
+          "name": "Kate Ray",
+          "id": 22449932,
+          "id_str": "22449932",
+          "indices": [
+            53,
+            62
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 13 17:59:47 +0000 2014",
+    "id": 4.6627663454735e+17,
+    "id_str": "466276634547347456",
+    "text": "@Spotify Your product is finally incredible. I have tried every streaming service over the past 3 years. You just won!",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17230018,
+    "in_reply_to_user_id_str": "17230018",
+    "in_reply_to_screen_name": "Spotify",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Spotify",
+          "name": "Spotify",
+          "id": 17230018,
+          "id_str": "17230018",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon May 12 04:15:05 +0000 2014",
+    "id": 4.65706705012e+17,
+    "id_str": "465706705012002817",
+    "text": "@dpolaske @producthunt this is amazing. I think this will be the start of our silicon valley challenge...",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.65705897814e+17,
+    "in_reply_to_status_id_str": "465705897814003713",
+    "in_reply_to_user_id": 488238085,
+    "in_reply_to_user_id_str": "488238085",
+    "in_reply_to_screen_name": "dpolaske",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dpolaske",
+          "name": "Dan Polaske",
+          "id": 488238085,
+          "id_str": "488238085",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri May 02 16:30:11 +0000 2014",
+    "id": 4.6226782073089e+17,
+    "id_str": "462267820730888192",
+    "text": "Why is it that every bit of Apple software is such shit?",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 30 01:08:42 +0000 2014",
+    "id": 4.6131114493046e+17,
+    "id_str": "461311144930459648",
+    "text": "@intelliot that's way too next-level for the music industry. Lol",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.6117701374354e+17,
+    "in_reply_to_status_id_str": "461177013743542272",
+    "in_reply_to_user_id": 1685411,
+    "in_reply_to_user_id_str": "1685411",
+    "in_reply_to_screen_name": "intelliot",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "intelliot",
+          "name": "Elliot Lee",
+          "id": 1685411,
+          "id_str": "1685411",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 20 02:26:51 +0000 2014",
+    "id": 4.577069319734e+17,
+    "id_str": "457706931973398528",
+    "text": "@davehoover it's not like riding a bike. I could do them 5 years ago. Tried last year, major fail!",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": 4.5749590312579e+17,
+    "in_reply_to_status_id_str": "457495903125790720",
+    "in_reply_to_user_id": 57853,
+    "in_reply_to_user_id_str": "57853",
+    "in_reply_to_screen_name": "davehoover",
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "davehoover",
+          "name": "Dave Hoover",
+          "id": 57853,
+          "id_str": "57853",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 20 02:23:45 +0000 2014",
+    "id": 4.5770615122887e+17,
+    "id_str": "457706151228866560",
+    "text": "RT @mislav: Protip:\n$ caffeinate -i curl -O &lt;URL&gt;\n\nPrevents OS X from going to sleep until the download has completed.",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Apr 19 18:49:47 +0000 2014",
+      "id": 4.5759190910058e+17,
+      "id_str": "457591909100576769",
+      "text": "Protip:\n$ caffeinate -i curl -O &lt;URL&gt;\n\nPrevents OS X from going to sleep until the download has completed.",
+      "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7516242,
+        "id_str": "7516242",
+        "name": "Mislav Marohni\u0107",
+        "screen_name": "mislav",
+        "location": "Europe-ish",
+        "description": "Iconoclastic. Polyamorous. GitHubber. I\u00a0say we take off and nuke the patriarchy from orbit. It\u2019s the only way to be\u00a0sure.",
+        "url": "http:\/\/t.co\/iGunZ27BFU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/iGunZ27BFU",
+                "expanded_url": "http:\/\/mislav.uniqpath.com\/",
+                "display_url": "mislav.uniqpath.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5636,
+        "friends_count": 148,
+        "listed_count": 460,
+        "created_at": "Mon Jul 16 20:54:01 +0000 2007",
+        "favourites_count": 734,
+        "utc_offset": 7200,
+        "time_zone": "Zagreb",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9217,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "373737",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/1493882\/pattern.gif",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/1493882\/pattern.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/500395960648749056\/A6trldA8_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/500395960648749056\/A6trldA8_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/7516242\/1408138961",
+        "profile_link_color": "D27144",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "92D7F0",
+        "profile_text_color": "003358",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 86,
+      "favorite_count": 153,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "urls": [
+
+        ],
+        "user_mentions": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mislav",
+          "name": "Mislav Marohni\u0107",
+          "id": 7516242,
+          "id_str": "7516242",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 16 20:14:17 +0000 2014",
+    "id": 4.5652601250369e+17,
+    "id_str": "456526012503691264",
+    "text": "SwiftKey has saved me 100,000 keystrokes! It's scary how it knows what u want to type, but soo useful!",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 11 01:58:53 +0000 2014",
+    "id": 4.5443840612725e+17,
+    "id_str": "454438406127251457",
+    "text": "I'm a loyal @Nightline viewer, but this new \"top 5\" thing is killing me.",
+    "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Nightline",
+          "name": "Nightline",
+          "id": 19740592,
+          "id_str": "19740592",
+          "indices": [
+            12,
+            22
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Apr 08 23:28:38 +0000 2014",
+    "id": 4.5367581905585e+17,
+    "id_str": "453675819055845376",
+    "text": "http:\/\/t.co\/QKbiVE3cEY Genius",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/QKbiVE3cEY",
+          "expanded_url": "http:\/\/www.useronboard.com\/features-vs-benefits",
+          "display_url": "useronboard.com\/features-vs-be\u2026",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "lt"
+  },
+  {
+    "created_at": "Fri Apr 04 16:04:51 +0000 2014",
+    "id": 4.5211458436769e+17,
+    "id_str": "452114584367689728",
+    "text": "Interesting perspective @triplec1988 (http:\/\/t.co\/bdAWz99wcZ). I feel that coding bootcamps are great for jumpstarting your career.",
+    "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 613141454,
+      "id_str": "613141454",
+      "name": "Jordan Nemrow",
+      "screen_name": "nemrow",
+      "location": "San Francisco",
+      "description": "I build shit. #hacketyhack",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 321,
+      "friends_count": 100,
+      "listed_count": 11,
+      "created_at": "Wed Jun 20 04:54:13 +0000 2012",
+      "favourites_count": 9,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 208,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3520854818\/2d033b9d7da6be5c7d9c6f5e483a4f32_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/bdAWz99wcZ",
+          "expanded_url": "http:\/\/qz.com\/193896",
+          "display_url": "qz.com\/193896",
+          "indices": [
+            38,
+            60
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "triplec1988",
+          "name": "Chris Clouten",
+          "id": 182095549,
+          "id_str": "182095549",
+          "indices": [
+            24,
+            36
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
