@@ -20,6 +20,8 @@ View = {
       View.displayLoading();
       $.get('/twitter_user', $(this).serialize(), function (results) {
         View.mainContent().html(TEMPLATES.tweet_template(results));
+      }).fail(function() {
+        View.mainContent().html(TEMPLATES.error_template());
       });
       e.preventDefault();
     });
@@ -28,6 +30,8 @@ View = {
       View.displayLoading();
       $.get('/twitter_mutual_followers', $(this).serialize(), function (results) {
         View.mainContent().html(TEMPLATES.mutual_followers_template(results));
+      }).fail(function() {
+        View.mainContent().html(TEMPLATES.error_template());
       });
       e.preventDefault();
     });
