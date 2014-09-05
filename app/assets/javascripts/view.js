@@ -19,7 +19,7 @@ View = {
     View.twitterUserForm().submit(function (e) {
       View.displayLoading();
       $.get('/twitter_user', $(this).serialize(), function (results) {
-        View.mainContent().html(TEMPLATES.tweet_template(results));
+        View.mainContent().html(TEMPLATES.tweet_template({tweets: results}));
       }).fail(function() {
         View.mainContent().html(TEMPLATES.error_template());
       });
@@ -29,7 +29,7 @@ View = {
     View.followerIntersectionForm().submit(function (e) {
       View.displayLoading();
       $.get('/twitter_mutual_followers', $(this).serialize(), function (results) {
-        View.mainContent().html(TEMPLATES.mutual_followers_template(results));
+        View.mainContent().html(TEMPLATES.mutual_followers_template({mutual_followers: results}));
       }).fail(function() {
         View.mainContent().html(TEMPLATES.error_template());
       });
